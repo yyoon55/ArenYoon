@@ -1,5 +1,4 @@
 ## Integrative Project Management 
-Summer 2024
 
 Dr. Bradly Alicea
 [balicea@illinois.edu](mailto:balicea@illinois.edu)
