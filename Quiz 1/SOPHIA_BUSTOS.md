@@ -6,9 +6,13 @@
 
 Sunsets are **nice** because: 
 * The sky can be many different colors, providing a relaxing ambiance
-* They change everyday, no two sunsets are ever the same
+* They change every day, no two sunsets are ever the same
 * You learn to appreciate the warmth of the sun during the day
 
-This CSV files contains some facts about the Grainger Engingeering Library.
-!csv(grainger_facts - Sheet1.csv)(Fact|Source)
+This CSV file contains some facts about the Grainger Engineering Library.
 
+```csv
+Built in 1992, Source: UIUC
+Largest College Engineering Library in the US, Source: Wikipedia
+Named after William Wallace Grainger, Source: CBS News 
+Grainger Foundation donated $100 million to UIUC to build the library, Source: UIUC
