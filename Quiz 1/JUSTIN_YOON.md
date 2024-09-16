@@ -20,3 +20,5 @@
 | ~~Avocado Toast~~      | ~~Snack~~       | ~~5.00~~      |
 | *Blueberry Muffin*     | Snack           | 2.75          |
 ---
+
+The more coffee you have, the happier you get! 😉
