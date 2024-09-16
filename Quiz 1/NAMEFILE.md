@@ -1,5 +1,8 @@
 ## Please list your name below
 
+Bradly Alicea
+
+Mariam Sanusi
 Bradly Alicea   
 Autumn Rosedale   
 Hyunji Lee   
