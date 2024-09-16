@@ -22,3 +22,5 @@
 ---
 
 The more coffee you have, the happier you get! 😉
+
+<img src='https://images.unsplash.com/photo-1607616913258-a7af60b7d01f?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE2OTQzMTAxMjl8&ixlib=rb-4.0.3&q=85' alt=" interior of our cafe - someday">
