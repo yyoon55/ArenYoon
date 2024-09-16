@@ -4,5 +4,6 @@ Bradly Alicea
 Autumn Rosedale   
 Hyunji Lee   
 Amaan Khan   
-Sophia Bustos
-Justin Yoon
+Sophia Bustos 
+Justin Yoon \
+Blake Mackin
