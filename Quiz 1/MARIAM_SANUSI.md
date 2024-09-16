@@ -11,3 +11,18 @@
 "John Doe", 30, "Engineer"
 "Jane Smith", 25, "Designer"
 "Sam Johnson", 40, "Manager"
+
+
+\documentclass{article}
+\usepackage{amsmath}
+
+\begin{document}
+
+\section{Mathematical Equation}
+Here’s an example of a mathematical equation:
+
+\begin{equation}
+    a^2 + b^2 = c^2
+\end{equation}
+
+\end{document}
