@@ -1,6 +1,6 @@
 # Samridhi's Chicago Food Diary
 
-##### I spent a good amount of time in downtown Chicago because of my two summer internships. Hence, I enjoyed this opportunity to explore the city, especially the food! 🥘 🌆 
+###### I spent a good amount of time in downtown Chicago because of my two summer internships. Hence, I enjoyed this opportunity to explore the city, especially the food! 🥘 🌆 
 
 ---
 
@@ -18,7 +18,7 @@
 
 ## Visuals from My Food Adventures
 
-![Caption for Image 1](https://github.com/Samridhiverma27/Project-Management/blob/main/IMG_0004.png)
+![Caption for Image 1](https://ibb.co/z83DgTp)
 
 ![Caption for Image 2](https://github.com/Samridhiverma27/Project-Management/blob/main/IMG_3125.png)
 
