@@ -13,17 +13,14 @@ I'm a senior at the **iSchool** and **FAA** at the University of Illinois Urbana
 | Baking         | Trying out new recipes and sweet treats          |
 | Drawing        | Doodling and exploring creativity                |
 
-### Dream City: San Francisco
+### My Comfort Place: San Francisco
 
-San Francisco is my favorite place to visit for city walks and inspiration.
+San Francisco is my favorite place to go to for city walks, hanging out with my loved ones, and inspiration.
 
-![San Francisco](https://cdn.pixabay.com/photo/2015/03/26/10/02/san-francisco-690394_1280.jpg)
+![C53580AD-163A-4092-B9E7-4D9406D56AA7_1_105_c](https://github.com/user-attachments/assets/b58f00f2-335f-4a99-b0e5-8a42236cd41a)
+*Figure 1: San Francisco, my favorite city (a picture taken over this summer :) ).*
 
-*Figure 1: San Francisco, my favorite city to explore.*
+### Fun Fact!
 
-I’ve always loved both Siamese and orange tabby cats. One day, I’d love to have these two cats in my life, enjoying their distinct personalities. Here's an image that inspires me:
-
-![orange siamaese](https://github.com/user-attachments/assets/444aa66f-d4b5-4bda-bb94-252c9453486e)
-
-*Figure 1: A Siamese cat and an orange tabby — my future feline companions!*
+I’ve always loved both Siamese and orange tabby cats. One day, I’d love to have these two cats in my life, enjoying their distinct personalities. 
 
