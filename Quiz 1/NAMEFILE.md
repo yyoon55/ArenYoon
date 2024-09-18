@@ -10,7 +10,6 @@ Amaan Khan
 Sophia Bustos 
 Justin Yoon \
 Blake Mackin
-
 Pavithra Ramakrishnan
 
 Youbeen Oh
