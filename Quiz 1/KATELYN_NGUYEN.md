@@ -5,4 +5,4 @@
 |----------------------|----------------|
 | Hometown             | Streamwood, IL |
 | Fav color            | Blue           |
-| Random               | I cannot swim  |
+| Random               | I love the water but cannot swim  |
