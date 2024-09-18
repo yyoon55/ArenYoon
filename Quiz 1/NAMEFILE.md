@@ -11,7 +11,7 @@ Sophia Bustos
 Justin Yoon \
 Blake Mackin \
 Pavithra Ramakrishnan
-
+Katelyn Nguyen
 Youbeen Oh
 
 Yunchae Cho
