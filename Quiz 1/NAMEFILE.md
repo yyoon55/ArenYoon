@@ -9,7 +9,7 @@ Hyunji Lee
 Amaan Khan   
 Sophia Bustos 
 Justin Yoon \
-Blake Mackin
+Blake Mackin \
 Pavithra Ramakrishnan
 
 Youbeen Oh
