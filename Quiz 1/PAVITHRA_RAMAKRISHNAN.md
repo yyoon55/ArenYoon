@@ -14,7 +14,7 @@ Hi there! I’m Pavithra, a senior at the iSchool and FAA at the University of I
 | Baking         | Trying out new recipes and sweet treats          |
 | Drawing        | Doodling and exploring creativity                |
 
-### 🌁 My Comfort Place 
+## 🌁 My Comfort Place 
 
 San Francisco holds a special place in my heart. It's my go-to spot for long city walks, hanging out with loved ones, and soaking in all the inspiration this amazing city has to offer!
 
