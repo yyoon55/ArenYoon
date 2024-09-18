@@ -8,7 +8,7 @@
 
 | Restaurant/Cafe                       | Location           | Food Specialty                   | My Rating (out of 5) | Notes                                     |
 |---------------------------------------|--------------------|----------------------------------|----------------------|-------------------------------------------|
-| Velvet Taco                           | West loop, Goldcoast         | Spicy chicken tikka & Beer battered cauliflower Tacos,            | 5/5       | Unique taco flavors, quick service        |
+|Velvet Taco](https://www.velvettaco.com)                          | West loop, Goldcoast         | Spicy chicken tikka & Beer battered cauliflower Tacos,            | 5/5       | Unique taco flavors, quick service        |
 | Etta                                  | River North         | Wood-fired pizza, Italian dishes | 4.5/5       | Cozy atmosphere, great for group dinners  |
 | Robert's Pizza Dough and Company      | Streeterville        | Thin-crust pizza - The Rati               | 4/5      | Excellent dough, waterfront views         |
 | Wildberry Pancakes and Cafe           | Loop         | Crepes, Breakfast classics     | 4/5       | Perfect for brunch, large portions        |
@@ -16,11 +16,6 @@
 
 ---
 
-## Visuals from My Food Adventures
-
-![Some of the foods that I tried at these restaurants](https://imgur.com/a/9d3KURM)
-
----
 
 ### Final Thoughts
 Chicago is not just known for its skyscrapers, windy streets and deep dish pizza but also for its vibrant and diverse food scene. Whether it's a quick bite or a full-course meal, I feel that the city has something for everyone!
