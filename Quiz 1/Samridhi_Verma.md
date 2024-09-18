@@ -18,11 +18,7 @@
 
 ## Visuals from My Food Adventures
 
-![Caption for Image 1](https://ibb.co/z83DgTp)
-
-![Caption for Image 2](https://github.com/Samridhiverma27/Project-Management/blob/main/IMG_3125.png)
-
-![Caption for Image 3](https://github.com/Samridhiverma27/Project-Management/blob/main/IMG_5397.png)
+![Some of the foods that I tried at these restaurants](https://imgur.com/a/9d3KURM)
 
 ---
 
