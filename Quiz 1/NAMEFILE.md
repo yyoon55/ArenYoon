@@ -13,6 +13,6 @@ Blake Mackin \
 Pavithra Ramakrishnan
 Katelyn Nguyen
 Youbeen Oh
-
+Aren Yoon
 Yunchae Cho
 Samridhi Verma
